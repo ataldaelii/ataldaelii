@@ -6,7 +6,7 @@
   <img align="center" alt="Eli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Eli-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/c297ff1215de1d2d4b8c48cfd4a42349.gif">
+  <img align="right" alt="Eli-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/k0RzQDF.jpg" title="source: imgur.com" /></a>">
 </div>
   
   ##
